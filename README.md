@@ -1,1 +1,1 @@
-# FinalAlgorithmApp
+Desktop Application that allows Doctors to manage their appointments and their Patients where can add Medicines for them. A manager manages everything in the System. A Patient can book appointments and show his Medicines and can send messages to his Doctor.
